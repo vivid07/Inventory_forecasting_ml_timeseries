@@ -1,5 +1,7 @@
 Inventory Stock Forecasting using Time Series & Machine Learning
 
+## DATA IS NOT ADDED IN HERE DUE TO SIZE/PRIVACY.
+
 🚀 Overview
 This project focuses on forecasting inventory stock levels using a combination of time series models and machine learning algorithms. It helps in making better supply chain decisions by predicting future stock and evaluating lead time demand.
 
